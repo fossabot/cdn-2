@@ -1,15 +1,7 @@
 # Global Minecraft Ban Manager CDN
 
-[![Github last commit date](https://img.shields.io/github/last-commit/gmcbm/cdn.svg?label=Updated&logo=github&maxAge=600)](https://github.com/gmcbm/cdn/commits)
-[![License](https://img.shields.io/github/license/gmcbm/cdn.svg?label=License&maxAge=2592000)](https://github.com/gmcbm/cdn/blob/main/LICENSE)
-
----
-
-## Description
-
-Description
-
----
+[![GitHub last commit](https://img.shields.io/github/last-commit/gmcbm/cdn?logo=github&style=for-the-badge)](https://github.com/gmcbm/cdn/commits)
+[![License](https://img.shields.io/github/license/gmcbm/cdn?style=for-the-badge)](https://github.com/gmcbm/cdn/blob/main/LICENSE)
 
 ## License
 
